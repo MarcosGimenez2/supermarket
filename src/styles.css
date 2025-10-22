@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+main{
+    margin: 2em;
+}
+body.dark-mode {
+  background-color: #121212 !important;
+  color: #eee !important;
+}
